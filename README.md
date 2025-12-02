@@ -1,4 +1,4 @@
-# CS490 Sakila Frontend
+# Sakila Frontend
 
 React frontend for the Sakila DVD Store management system.
 
